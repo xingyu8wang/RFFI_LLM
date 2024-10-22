@@ -1,0 +1,32 @@
+本数据集为LTE跟踪数据集
+
+
+带有标签：
+1.样本时间戳
+2.GPS坐标
+3.移动设备速度
+4.运营商名称
+5.移动设备的服务单元
+6.移动通信标准
+7.RSRQ/RSRP/RSSI
+8.信噪比
+9.CQI
+10.下载速率
+11.上行链路速率
+12.下载过程状态
+13.相邻单元格的RSRQ与RSRP
+14.服务器的GPS坐标
+15.服务单元与移动设备的距离
+
+在五种不同的移动模式下（室内、火车、汽车、公交、步行）进行收集
+
+4G 轨迹数据集包含 135 条轨迹，每条轨迹平均持续时间为 15 分钟，可视吞吐量范围为 0 到 173 Mbit/s，粒度为每秒 1 个样本。
+
+来源文章：Beyond throughput: a 4G LTE dataset with channel and context metrics
+原始链接：https://www.kaggle.com/datasets/aeryss/lte-dataset				
+				
+				
+				
+				
+				
+
